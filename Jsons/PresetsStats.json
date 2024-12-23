@@ -1,0 +1,236 @@
+{
+    "Weapons": {
+        "Weight": {
+            "type": "Float",
+            "value": 1
+        },
+        "Beauty": {
+            "type": "Int",
+            "value": 50
+        },
+        "Damage": {
+            "type": "Dice",
+            "value": [
+                1,
+                0
+            ]
+        },
+        "TypeDamage": {
+            "type": "ComboBox",
+            "value": [
+                "Piercing",
+                "Slashing",
+                "Bludgeoning",
+                "Fire",
+                "Cold",
+                "Lightning",
+                "Poison",
+                "Necrotic",
+                "Radiant",
+                "Acid",
+                "Magical",
+                "Psychic",
+                "Force"
+            ]
+        },
+        "Long-range": {
+            "type": "Float",
+            "value": 1.5
+        },
+        "Material": {
+            "type": "ComboBox",
+            "value": [
+                "Steel",
+                "Iron",
+                "Wood",
+                "Bronze",
+                "Adamantine",
+                "Mithral",
+                "Silver",
+                "Gold",
+                "Cold Iron",
+                "Obsidian",
+                "Crystal",
+                "Bone",
+                "Leather",
+                "Stone",
+                "Feywood",
+                "Dragonbone",
+                "Darkwood",
+                "Shadow Silk"
+            ]
+        },
+        "Proficiency Class": {
+            "type": "Int",
+            "value": 1
+        },
+        "Price": {
+            "type": "Int",
+            "value": 1
+        },
+        "Attack Speed": {
+            "type": "Float",
+            "value": 1
+        },
+        "Breakdown": {
+            "type": "Float",
+            "value": 1
+        },
+        "Status": {
+            "type": "ComboBox",
+            "value": [
+                "New",
+                "Damaged",
+                "Broken"
+            ]
+        },
+        "Charging": {
+            "type": "Int",
+            "value": 1
+        },
+        "Level Dependence": {
+            "type": "Int",
+            "value": 1
+        }
+    },
+    "Medicines": {
+        "Name": {
+            "type": "String",
+            "value": ""
+        },
+        "Type": {
+            "type": "ComboBox",
+            "value": [
+                "Potion",
+                "Balm",
+                "Tincture"
+            ]
+        },
+        "Rarity": {
+            "type": "ComboBox",
+            "value": [
+                "Common",
+                "Uncommon",
+                "Rare",
+                "Very Rare",
+                "Legendary"
+            ]
+        },
+        "Price": {
+            "type": "Int",
+            "value": 1
+        },
+        "Weight": {
+            "type": "Float",
+            "value": 1
+        },
+        "Effect": {
+            "type": "String",
+            "value": ""
+        },
+        "Dosage": {
+            "type": "Int",
+            "value": 1
+        },
+        "Duration": {
+            "type": "String",
+            "value": ""
+        },
+        "Class Use": {
+            "type": "ComboBox",
+            "value": [
+                "Any",
+                "Clerics",
+                "Mages"
+            ]
+        },
+        "Usage Requirements": {
+            "type": "String",
+            "value": ""
+        },
+        "Application Method": {
+            "type": "ComboBox",
+            "value": [
+                "Oral",
+                "Topical",
+                "Injection"
+            ]
+        },
+        "Side Effects": {
+            "type": "String",
+            "value": ""
+        },
+        "Composition": {
+            "type": "String",
+            "value": ""
+        },
+        "Shelf Life": {
+            "type": "String",
+            "value": ""
+        },
+        "Spell Level": {
+            "type": "Int",
+            "value": 1
+        },
+        "Magical Properties": {
+            "type": "String",
+            "value": ""
+        },
+        "History": {
+            "type": "String",
+            "value": ""
+        },
+        "Manufacturer": {
+            "type": "String",
+            "value": ""
+        },
+        "Storage Conditions": {
+            "type": "String",
+            "value": ""
+        },
+        "Unique Effects": {
+            "type": "String",
+            "value": ""
+        },
+        "Synergy": {
+            "type": "String",
+            "value": ""
+        },
+        "Ritual Requirements": {
+            "type": "String",
+            "value": ""
+        },
+        "Combat Use": {
+            "type": "String",
+            "value": ""
+        },
+        "State Change": {
+            "type": "String",
+            "value": ""
+        },
+        "Unique Ingredients": {
+            "type": "String",
+            "value": ""
+        },
+        "Climatic Requirements": {
+            "type": "String",
+            "value": ""
+        },
+        "Environmental Impact": {
+            "type": "String",
+            "value": ""
+        },
+        "Creation Difficulty": {
+            "type": "Int",
+            "value": 1
+        },
+        "Influence Level": {
+            "type": "Float",
+            "value": 1
+        }
+    },
+    "Components": {},
+    "Artifacts": {},
+    "Tools": {},
+    "Clothes": {}
+}

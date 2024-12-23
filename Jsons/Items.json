@@ -1,0 +1,217 @@
+{
+    "Items": {
+        "Axe": {
+            "nameItem": "Axe",
+            "pathToImage": "pathToImage",
+            "briefHint": "briefHint",
+            "typeItem": [
+                "Weapons",
+                "CustomIfExist"
+            ],
+            "rarity": [
+                "Rare",
+                "CustomIfExist"
+            ],
+            "description": "description",
+            "stats": {
+                "Weight": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Beauty": {
+                    "type": "Int",
+                    "value": 50
+                },
+                "Damage": {
+                    "type": "Dice",
+                    "value": [
+                        1,
+                        0
+                    ]
+                },
+                "TypeDamage": {
+                    "type": "ComboBox",
+                    "value": "Piercing"
+                },
+                "Long-range": {
+                    "type": "Float",
+                    "value": 1.5
+                },
+                "Material": {
+                    "type": "ComboBox",
+                    "value": "Steel"
+                },
+                "Proficiency Class": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Price": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Attack Speed": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Breakdown": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Status": {
+                    "type": "ComboBox",
+                    "value": "Damaged"
+                },
+                "Charging": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Level Dependence": {
+                    "type": "Int",
+                    "value": 1
+                }
+            }
+        },
+        "Axe2": {
+            "nameItem": "Axe",
+            "pathToImage": "pathToImage",
+            "briefHint": "briefHint",
+            "typeItem": [
+                "Weapons",
+                "CustomIfExist"
+            ],
+            "rarity": [
+                "Rare",
+                "CustomIfExist"
+            ],
+            "description": "description",
+            "stats": {
+                "Weight": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Beauty": {
+                    "type": "Int",
+                    "value": 50
+                },
+                "Damage": {
+                    "type": "Dice",
+                    "value": [
+                        1,
+                        0
+                    ]
+                },
+                "TypeDamage": {
+                    "type": "ComboBox",
+                    "value": "Piercing"
+                },
+                "Long-range": {
+                    "type": "Float",
+                    "value": 1.5
+                },
+                "Material": {
+                    "type": "ComboBox",
+                    "value": "Steel"
+                },
+                "Proficiency Class": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Price": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Attack Speed": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Breakdown": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Status": {
+                    "type": "ComboBox",
+                    "value": "Damaged"
+                },
+                "Charging": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Level Dependence": {
+                    "type": "Int",
+                    "value": 1
+                }
+            }
+        },
+        "Axe3": {
+            "nameItem": "Axe",
+            "pathToImage": "pathToImage",
+            "briefHint": "briefHint",
+            "typeItem": [
+                "Weapons",
+                "CustomIfExist"
+            ],
+            "rarity": [
+                "Rare",
+                "CustomIfExist"
+            ],
+            "description": "description",
+            "stats": {
+                "Weight": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Beauty": {
+                    "type": "Int",
+                    "value": 50
+                },
+                "Damage": {
+                    "type": "Dice",
+                    "value": [
+                        1,
+                        0
+                    ]
+                },
+                "TypeDamage": {
+                    "type": "ComboBox",
+                    "value": "Piercing"
+                },
+                "Long-range": {
+                    "type": "Float",
+                    "value": 1.5
+                },
+                "Material": {
+                    "type": "ComboBox",
+                    "value": "Steel"
+                },
+                "Proficiency Class": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Price": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Attack Speed": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Breakdown": {
+                    "type": "Float",
+                    "value": 1
+                },
+                "Status": {
+                    "type": "ComboBox",
+                    "value": "Damaged"
+                },
+                "Charging": {
+                    "type": "Int",
+                    "value": 1
+                },
+                "Level Dependence": {
+                    "type": "Int",
+                    "value": 1
+                }
+            }
+        }
+    }
+}
